@@ -1,0 +1,17 @@
+{
+    "version": "1.1.10",
+    "build": 11,
+    "releaseDate": "2026-10-30",
+    "releaseNotes": "v1.1.10: Mở rộng độ dài LED 20M, chuyển giao tiếp điều khiển sang Arduino Mega 2560 5V và sửa lỗi kiểm tra cập nhật online.",
+    "downloadUrl": {
+        "android": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.10/idmav_app_1.1.10.apk",
+        "android_arm64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.10/idmav_app_1.1.10.apk",
+        "android_armv7": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.10/idmav_app_1.1.10.apk",
+        "android_x64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.10/idmav_app_1.1.10.apk"
+    },
+    "download_url": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.10/idmav_app_1.1.10.apk",
+    "required": false,
+    "minVersion": "1.1.0",
+    "file_size": "~110 MB",
+    "driveLink": null
+}
