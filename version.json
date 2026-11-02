@@ -1,17 +1,17 @@
 {
-    "version": "1.1.11",
-    "build": 12,
+    "version": "1.1.12",
+    "build": 13,
     "releaseDate": "2026-11-03",
-    "releaseNotes": "v1.1.11: Tối ưu dung lượng bộ cài siêu nhẹ (arm64-v8a), nâng cấp bảo mật bản quyền Firebase Realtime Database: 1 thiết bị chỉ kích hoạt mã thử 1 lần duy nhất, chống sửa giờ và làm mới giao diện chuẩn không emoji.",
+    "releaseNotes": "v1.1.12: Tích hợp trình tải trực tiếp trong ứng dụng có thanh tiến trình %, tự động mở bộ cài đặt APK hệ thống và đóng ứng dụng khi cập nhật.",
     "downloadUrl": {
-        "android": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.11/idmav_app_1.1.11.apk",
-        "android_arm64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.11/idmav_app_1.1.11.apk",
-        "android_armv7": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.11/idmav_app_1.1.11_armeabi-v7a.apk",
-        "android_x64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.11/idmav_app_1.1.11.apk"
+        "android": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.12/idmav_app_1.1.12.apk",
+        "android_arm64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.12/idmav_app_1.1.12.apk",
+        "android_armv7": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.12/idmav_app_1.1.12_armeabi-v7a.apk",
+        "android_x64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.12/idmav_app_1.1.12.apk"
     },
-    "download_url": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.11/idmav_app_1.1.11.apk",
+    "download_url": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.12/idmav_app_1.1.12.apk",
     "required": false,
     "minVersion": "1.1.0",
-    "file_size": "~53 MB",
+    "file_size": "~53.1 MB",
     "driveLink": null
 }
