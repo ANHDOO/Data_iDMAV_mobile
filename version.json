@@ -1,17 +1,17 @@
 {
-    "version": "1.1.12",
-    "build": 13,
+    "version": "1.1.13",
+    "build": 14,
     "releaseDate": "2026-11-03",
-    "releaseNotes": "v1.1.12: Tích hợp trình tải trực tiếp trong ứng dụng có thanh tiến trình %, tự động mở bộ cài đặt APK hệ thống và đóng ứng dụng khi cập nhật.",
+    "releaseNotes": "v1.1.13: Hỗ trợ lưu trữ & chia sẻ toàn diện dữ liệu Sa bàn cố định (192 bít đơn và bít tổng), tích hợp cơ chế tự động dọn dẹp tệp APK cũ chống phình bộ nhớ khi cập nhật.",
     "downloadUrl": {
-        "android": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.12/idmav_app_1.1.12.apk",
-        "android_arm64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.12/idmav_app_1.1.12.apk",
-        "android_armv7": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.12/idmav_app_1.1.12_armeabi-v7a.apk",
-        "android_x64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.12/idmav_app_1.1.12.apk"
+        "android": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.13/idmav_app_1.1.13.apk",
+        "android_arm64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.13/idmav_app_1.1.13.apk",
+        "android_armv7": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.13/idmav_app_1.1.13_armeabi-v7a.apk",
+        "android_x64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.13/idmav_app_1.1.13.apk"
     },
-    "download_url": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.12/idmav_app_1.1.12.apk",
+    "download_url": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.13/idmav_app_1.1.13.apk",
     "required": false,
     "minVersion": "1.1.0",
-    "file_size": "~53.1 MB",
+    "file_size": "~53.2 MB",
     "driveLink": null
 }
