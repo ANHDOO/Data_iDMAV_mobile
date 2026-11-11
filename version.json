@@ -1,17 +1,17 @@
 {
-    "version": "1.1.15",
-    "build": 16,
-    "releaseDate": "2026-11-09",
-    "releaseNotes": "v1.1.15: v1.1.15: Khắc phục lỗi trùng mã Device ID giữa các dòng máy Android và tối ưu quản trị bản quyền.",
+    "version": "1.1.16",
+    "build": 17,
+    "releaseDate": "2026-11-11",
+    "releaseNotes": "v1.1.16: v1.1.16: Realtime SSE Stream khoa va mo khoa thiet bi tuc thi, tu dong mo khoa app khi Admin unblock, quan ly toan dien vong doi Key va chan triet de tai su dung ma het han.",
     "downloadUrl": {
-        "android": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.15/idmav_app_1.1.15.apk",
-        "android_arm64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.15/idmav_app_1.1.15.apk",
-        "android_armv7": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.15/idmav_app_1.1.15_armeabi-v7a.apk",
-        "android_x64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.15/idmav_app_1.1.15.apk"
+        "android": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.16/idmav_app_1.1.16.apk",
+        "android_arm64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.16/idmav_app_1.1.16.apk",
+        "android_armv7": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.16/idmav_app_1.1.16_armeabi-v7a.apk",
+        "android_x64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.16/idmav_app_1.1.16.apk"
     },
-    "download_url": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.15/idmav_app_1.1.15.apk",
+    "download_url": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.16/idmav_app_1.1.16.apk",
     "required": false,
     "minVersion": "1.1.0",
-    "file_size": "~54.5 MB",
+    "file_size": "~54.6 MB",
     "driveLink": null
 }
