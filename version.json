@@ -1,17 +1,24 @@
 {
-    "version": "1.1.17",
-    "build": 18,
-    "releaseDate": "2026-11-11",
-    "releaseNotes": "v1.1.17: v1.1.17: Quan ly va hien thi toan dien luot kich hoat cho Key Dung Thu (Trial), danh sach thiet bi su dung va toi uu tab Quan Tri Ban Quyen.",
+    "version": "1.1.18",
+    "build": 19,
+    "releaseDate": "2026-11-12",
+    "releaseNotes": "v1.1.18: Toi uu toc do kiem tra va kich hoat key ban quyen song song, khac phuc loi chuyen trang va dong bo quyen Admin Firebase Auth/RTDB.",
     "downloadUrl": {
-        "android": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.17/idmav_app_1.1.17.apk",
-        "android_arm64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.17/idmav_app_1.1.17.apk",
-        "android_armv7": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.17/idmav_app_1.1.17_armeabi-v7a.apk",
-        "android_x64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.17/idmav_app_1.1.17.apk"
+        "android": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.18/idmav_app_1.1.18.apk",
+        "android_arm64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.18/idmav_app_1.1.18.apk",
+        "android_armv7": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.18/idmav_app_1.1.18_armeabi-v7a.apk",
+        "android_x64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.18/idmav_app_1.1.18.apk"
     },
-    "download_url": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.17/idmav_app_1.1.17.apk",
+    "download_url": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.18/idmav_app_1.1.18.apk",
     "required": false,
     "minVersion": "1.1.0",
-    "file_size": "~54.6 MB",
-    "driveLink": null
+    "file_size": "~55.4 MB",
+    "driveLink": null,
+    "sha256": "830627f0eb7d8de3a16c22fecd3e2f9e2e4829243a966270e144d26552fb8586",
+    "sha256_map": {
+        "android": "830627f0eb7d8de3a16c22fecd3e2f9e2e4829243a966270e144d26552fb8586",
+        "android_arm64": "830627f0eb7d8de3a16c22fecd3e2f9e2e4829243a966270e144d26552fb8586",
+        "android_armv7": "07f921b6350e2ca2cf5f73e4972e4d4ec29acc64a59482a617b64098804349c0",
+        "android_x64": "830627f0eb7d8de3a16c22fecd3e2f9e2e4829243a966270e144d26552fb8586"
+    }
 }
