@@ -1,24 +1,24 @@
 {
-    "version": "1.1.20",
-    "build": 21,
+    "version": "1.1.21",
+    "build": 22,
     "releaseDate": "2026-11-20",
-    "releaseNotes": "v1.1.20: Cap nhat mo phong 2D tu dien thuc te va 6 hieu ung ma tran 192 bit",
+    "releaseNotes": "v1.1.21: Tich hop 6 hieu ung ma tran 2D chuyen sau: VU Meter, Ping-Pong, Mua ma tran, Chu chay 5x7, Radar Sin, Xoan oc tu tam",
     "downloadUrl": {
-        "android": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.20/idmav_app_1.1.20.apk",
-        "android_arm64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.20/idmav_app_1.1.20.apk",
-        "android_armv7": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.20/idmav_app_1.1.20_armeabi-v7a.apk",
-        "android_x64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.20/idmav_app_1.1.20.apk"
+        "android": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.21/idmav_app_1.1.21.apk",
+        "android_arm64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.21/idmav_app_1.1.21.apk",
+        "android_armv7": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.21/idmav_app_1.1.21_armeabi-v7a.apk",
+        "android_x64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.21/idmav_app_1.1.21.apk"
     },
-    "download_url": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.20/idmav_app_1.1.20.apk",
+    "download_url": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.21/idmav_app_1.1.21.apk",
     "required": false,
     "minVersion": "1.1.0",
     "file_size": "~55.4 MB",
     "driveLink": null,
-    "sha256": "588851f16ccfbc60dda0a62c732867595f7c2404a05ea4809526b81ed819d66d",
+    "sha256": "8df117a3ff005f08ebea1b7fdb480e8fb305bccdb3206bce40a3c2a520e197c3",
     "sha256_map": {
-        "android": "588851f16ccfbc60dda0a62c732867595f7c2404a05ea4809526b81ed819d66d",
-        "android_arm64": "588851f16ccfbc60dda0a62c732867595f7c2404a05ea4809526b81ed819d66d",
-        "android_armv7": "8bfccb46c084f3e40236e3c456eb027e9eea42613b3edac5b7a49a465c20af25",
-        "android_x64": "588851f16ccfbc60dda0a62c732867595f7c2404a05ea4809526b81ed819d66d"
+        "android": "8df117a3ff005f08ebea1b7fdb480e8fb305bccdb3206bce40a3c2a520e197c3",
+        "android_arm64": "8df117a3ff005f08ebea1b7fdb480e8fb305bccdb3206bce40a3c2a520e197c3",
+        "android_armv7": "58da39199ec5f512c5095c3b831a723d701eac2a4c039773d601bc475d92a9f0",
+        "android_x64": "8df117a3ff005f08ebea1b7fdb480e8fb305bccdb3206bce40a3c2a520e197c3"
     }
 }
