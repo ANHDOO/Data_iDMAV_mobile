@@ -2,7 +2,7 @@
     "version": "1.1.19",
     "build": 20,
     "releaseDate": "2026-11-20",
-    "releaseNotes": "v1.1.19: Tich hop man hinh test phan cung tu dien co dinh (192 ngo ra 74HC595 voi 7 che do test tu dong va ma tran LED), dong thoi co dinh ma thiet bi Device ID qua ANDROID_ID phan cung chong doi ma khi cai lai app.",
+    "releaseNotes": "v1.1.19: v1.1.19: Nang cap tinh nang test phan cung tu dien co dinh: Arduino Mega tu chay hieu ung khong chan (non-blocking) qua lenh TEST text, dong bo ma tran LED truc quan tren app khong nghen BLE, co dinh Device ID qua ANDROID_ID phan cung.",
     "downloadUrl": {
         "android": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.19/idmav_app_1.1.19.apk",
         "android_arm64": "https://github.com/ANHDOO/Data_iDMAV_mobile/releases/download/v1.1.19/idmav_app_1.1.19.apk",
@@ -14,11 +14,11 @@
     "minVersion": "1.1.0",
     "file_size": "~55.4 MB",
     "driveLink": null,
-    "sha256": "369965a81550f8b1a85608fcfe41936678d83f02a7807eeaf0e831c81eb3fc86",
+    "sha256": "bb192c01f2ab1066a419df31f08ecdc0502f16757abb1f1b1fd5b11f21145658",
     "sha256_map": {
-        "android": "369965a81550f8b1a85608fcfe41936678d83f02a7807eeaf0e831c81eb3fc86",
-        "android_arm64": "369965a81550f8b1a85608fcfe41936678d83f02a7807eeaf0e831c81eb3fc86",
-        "android_armv7": "c93d749e448f365dd2cb050fd132cf3e53362e0ddda1dd9df965b269b8743ee0",
-        "android_x64": "369965a81550f8b1a85608fcfe41936678d83f02a7807eeaf0e831c81eb3fc86"
+        "android": "bb192c01f2ab1066a419df31f08ecdc0502f16757abb1f1b1fd5b11f21145658",
+        "android_arm64": "bb192c01f2ab1066a419df31f08ecdc0502f16757abb1f1b1fd5b11f21145658",
+        "android_armv7": "113233f06d4a90a888465d3fffe39b53ce51a51c0c5b081cd1a52c391a385c31",
+        "android_x64": "bb192c01f2ab1066a419df31f08ecdc0502f16757abb1f1b1fd5b11f21145658"
     }
 }
